@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "bedrockpyrepl"
+version = "0.1.0b0"
+description = "Python REPL inside Minecraft Chat"
+authors = ["Your Name <you@example.com>"]
+license = "MIT"
+readme = "README.md"
+classifiers = ["Private :: Do Not Upload"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+bedrockpy = "^1.0.0a0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
