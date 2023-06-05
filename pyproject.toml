@@ -2,7 +2,7 @@
 name = "bedrockpyrepl"
 version = "0.1.0b0"
 description = "Python REPL inside Minecraft Chat"
-authors = ["Your Name <you@example.com>"]
+authors = ["Jonas da Silva"]
 license = "MIT"
 readme = "README.md"
 classifiers = ["Private :: Do Not Upload"]
