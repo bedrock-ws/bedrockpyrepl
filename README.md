@@ -22,8 +22,7 @@
    ```console
    pip install -U git+https://github.com/bedrock-ws/bedrockpyrepl.git
    ```
-2. Set up
-  [bedrockpy](https://bedrockpy.readthedocs.io/en/latest/setup.html).
+2. [Set up bedrockpy](https://bedrockpy.readthedocs.io/en/latest/setup.html).
 3. Run the server.
   
    ```console
