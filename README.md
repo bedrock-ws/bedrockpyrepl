@@ -59,3 +59,7 @@ Following features are intended to be unsupported:
   5
   ```
 
+<sub>
+NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG.
+</sub>
+
