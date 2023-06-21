@@ -3,7 +3,35 @@
 > Execute Python inside Minecraft
 
 `bedrockpyrepl` is a Python REPL that can be used inside a Minecraft chat.
-At the moment, not all features are supported yet:
+
+> **Warning**
+>
+> Use at your own risk. The code entered in the chat is executed on the system
+> running the server, so be cautious about what you enter.
+
+## Features
+
+* Use `_` to access the value evaluated by the last expression.
+* `SystemExit` stops the program, other errors are displayed in the chat.
+
+
+## Quickstart
+
+1. Install bedrockpyrepl and its dependencies
+  
+   ```console
+   pip install -U git+https://github.com/bedrock-ws/bedrockpyrepl.git
+   ```
+2. Set up
+  [bedrockpy](https://bedrockpy.readthedocs.io/en/latest/setup.html).
+3. Run the server.
+  
+   ```console
+   python -m bedrockpyrepl
+   ```
+
+
+## Known Issues
 
 * Variables are dropped immediately.
   
@@ -32,23 +60,3 @@ Following features are intended to be unsupported:
   5
   ```
 
-
-## Features
-
-* Use `_` to access the value returned by the last expression.
-* `SystemExit` stops the program, other errors are displayed in the chat.
-
-## Quickstart
-
-1. Install bedrockpyrepl and its dependencies
-  
-   ```console
-   pip install -U git+https://github.com/bedrock-ws/bedrockpyrepl.git
-   ```
-2. Set up
-  [bedrockpy](https://bedrockpy.readthedocs.io/en/latest/setup.html).
-3. Run the server.
-  
-   ```console
-   python -m bedrockpyrepl
-   ```
