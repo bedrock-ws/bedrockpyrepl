@@ -2,7 +2,7 @@
 
 > Execute Python inside Minecraft
 
-`bedrockpyrepl` is a Python REPL that can be used inside a Minecraft chat.
+`bedrockpyrepl` is a Python REPL that can be used within Minecraft.
 
 > **Warning**: **Use at your own risk**
 >
