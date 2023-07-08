@@ -4,9 +4,9 @@
 
 `bedrockpyrepl` is a Python REPL that can be used inside a Minecraft chat.
 
-> **Warning**
+> **Warning**: **Use at your own risk**
 >
-> Use at your own risk. The code entered in the chat is executed on the system
+> The code entered in the chat is executed on the system
 > running the server, so be cautious about what you enter.
 
 ## Features
