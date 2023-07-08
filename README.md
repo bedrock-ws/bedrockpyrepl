@@ -1,6 +1,6 @@
 # bedrockpyrepl
 
-> Execute Python inside Minecraft
+> Execute Python within Minecraft
 
 `bedrockpyrepl` is a Python REPL that can be used within Minecraft.
 
